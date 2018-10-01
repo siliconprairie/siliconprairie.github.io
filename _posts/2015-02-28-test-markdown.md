@@ -23,7 +23,7 @@ Here's a useless table:
 
 How about a skyline photo?
 
-![Chicago](https://github.com/siliconprairie/siliconprairie.github.io/blob/master/img/chicago_skyline.jpg)
+![Chicago](/img/chicago_skyline.jpg)
 
 Here's a code chunk:
 
