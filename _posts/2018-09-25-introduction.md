@@ -5,7 +5,7 @@ title: Introduction
 ---
 ## Welcome to the blog!
 
-Hello, and welcome to Silicon Prairie! We'll cover the latest developments in tech, startups, and venture capital happening between the coasts. The blog is sure to evolve over the coming months, but the vision is to post the latest trends in a variety of formats:  
+Hello, and welcome to Silicon Prairie! We'll cover the latest developments in tech, startups, and venture capital happening between the coasts. The blog is sure to evolve over the coming months, but the vision is to post in a variety of formats:  
 * City and state overviews  
 * Weekly funding roundups  
 * Analysis of regional VC portfolios
