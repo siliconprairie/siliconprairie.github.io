@@ -2,8 +2,6 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
-gh-repo: siliconprairie
-gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
@@ -23,9 +21,9 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about a skyline photo?
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Chicago](https://github.com/siliconprairie/siliconprairie.github.io/blob/master/img/chicago_skyline.jpg)
 
 Here's a code chunk:
 
