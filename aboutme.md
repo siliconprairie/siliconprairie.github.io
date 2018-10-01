@@ -5,5 +5,4 @@ title: Welcome!
 
 Stay tuned to follow the latest news in tech, startups, and VC. We cover the top trends happening between the coasts.
 
-{:.center}
-![Heartland](/img/heartland.PNG)
+![Heartland](/img/heartland.PNG){: .center-image}
